@@ -1,59 +1,33 @@
-# Hi, I'm Anas Rouhi 👋
+# Hi, I'm Anas Rouhi 
 
 ### Full-Stack Developer
 
-I build modern web applications with a focus on clean architecture, scalable backend systems, intuitive user interfaces, and reliable database design.
+I build modern web applications, business platforms, and scalable management systems.
 
-### 💻 Technical Skills
+### Tech Stack
 
 **Languages**
+PHP · JavaScript · SQL · HTML · CSS
 
-* PHP
-* JavaScript
-* SQL
-* HTML
-* CSS
+**Frameworks & Tools**
+Laravel · Vue.js · Inertia.js · Tailwind CSS · MySQL · Git · GitHub · Vite
 
-**Frameworks & Libraries**
+### What I Build
 
-* Laravel
-* Vue.js
-* Inertia.js
-* Tailwind CSS
+- Full-Stack Web Applications
+- ERP & HR Management Systems
+- Business Dashboards
+- E-commerce Platforms
+- REST APIs & Database-driven Applications
 
-**Tools & Technologies**
+### Featured Projects
 
-* MySQL
-* REST APIs
-* Git & GitHub
-* Vite
-* Chart.js
+🏢 **ERP & HR Management Platform**  
+Workforce management, recruitment, onboarding, attendance, leave, projects and tasks.
 
-### 🚀 What I Build
-
-* Full-stack web applications
-* ERP & HR management systems
-* Business management platforms
-* E-commerce applications
-* Dashboards and data-driven interfaces
-* Role-based applications and authentication systems
-
-### 📌 Featured Projects
-
-**ERP & HR Management Platform**
-A full-stack ERP platform for workforce management, recruitment, onboarding, employees, attendance, leave management, projects, tasks, documents, notifications, and administrative workflows.
-
-**Parapharmacie E-commerce**
-A web-based e-commerce platform designed for pharmacy and parapharmacy product management and online sales.
-
-### 🎯 Current Focus
-
-Improving my skills in full-stack development, software architecture, database design, security, and building production-ready applications.
-
-### 📫 Connect With Me
-
-* GitHub: [@anas-rouhi](https://github.com/anas-rouhi)
+💊 **Parapharmacie E-commerce**  
+E-commerce platform for pharmacy and parapharmacy products.
 
 ---
 
-*Always learning. Always building.*
+Always learning. Always building.
