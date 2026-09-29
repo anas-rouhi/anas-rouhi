@@ -1,7 +1,7 @@
 # 👨‍💻 Anas Rouhi
 ### **Full-Stack Developer | Web & Mobile**
 
-📍 *Marrakech, Morocco* • 💼 *Open for New Opportunities & Freelance Projects*  
+📍 *Marrakech, Morocco* 
 🔗 **[LinkedIn](https://www.linkedin.com/in/anas-rouhi) • [Email Me](mailto:rouhianas9@gmail.com)**
 
 ---
