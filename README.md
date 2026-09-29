@@ -54,13 +54,6 @@ I am a **Software Engineer** specializing in engineering and deploying robust, s
 
 ---
 
-### 📊 GitHub Activity & Metrics
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anas-rouhi&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anas-rouhi&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
----
 
 ### 📬 Connect With Me
 - 📧 Email: **rouhianas9@gmail.com**
