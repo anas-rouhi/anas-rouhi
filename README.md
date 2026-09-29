@@ -2,7 +2,7 @@
 ### **Full-Stack & Mobile Software Engineer | Web & Mobile Solutions Architect**
 
 📍 *Marrakech, Morocco* • 💼 *Open for High-Impact Roles & Senior Collaborations*  
-🔗 **[LinkedIn](https://linkedin.com) • [Email Me](mailto:rouhianas9@gmail.com)**
+🔗 **[LinkedIn](https://www.linkedin.com/in/anas-rouhi) • [Email Me](mailto:rouhianas9@gmail.com)**
 
 ---
 
@@ -55,10 +55,9 @@ I am a **Software Engineer** specializing in engineering and deploying robust, s
 ---
 
 ### 📊 GitHub Activity & Metrics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anas-rouhi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas-rouhi&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anas-rouhi&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anas-rouhi&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 ---
