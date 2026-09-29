@@ -1,19 +1,18 @@
 # 👨‍💻 Anas Rouhi
-### **Full-Stack & Mobile Software Engineer | Web & Mobile Solutions Architect**
+### **Full-Stack Developer | Web & Mobile**
 
-📍 *Marrakech, Morocco* • 💼 *Open for High-Impact Roles & Senior Collaborations*  
+📍 *Marrakech, Morocco* • 💼 *Open for New Opportunities & Freelance Projects*  
 🔗 **[LinkedIn](https://www.linkedin.com/in/anas-rouhi) • [Email Me](mailto:rouhianas9@gmail.com)**
 
 ---
 
 ### 🚀 About Me
 
-I am a **Software Engineer** specializing in engineering and deploying robust, scalable, and high-performance **Web and Cross-Platform Mobile applications**. With concrete professional experience delivering mission-critical enterprise systems and fintech products, I bridge complex business logic with clean, intuitive user interfaces.
+I am a passionate **Full-Stack Developer** focused on building modern, reliable, and user-friendly **Web & Mobile applications**. With hands-on professional experience delivering enterprise business platforms and mobile solutions, I take pride in writing clean, well-tested, and structured code.
 
-- 🏗️ **Core Philosophy:** Clean Architecture, SOLID Principles, Automated Testing & Scalable Relational Modeling.
-- 📱 **Mobile & Web Ecosystem:** Deep expertise in **Laravel (PHP 8+)**, **React Native**, **Vue.js**, and **Inertia.js**.
-- ⚙️ **Performance Driven:** Obsessed with query optimization, API latency reduction, and multi-tenant security isolation.
-
+- 💡 **Stack Focus:** Building end-to-end applications with **Laravel (PHP 8+)**, **React Native**, and **Vue.js / Inertia.js**.
+- 🏗️ **Engineering Principles:** Clean Code, RESTful API design, database modeling, and automated testing.
+- ⚡ **Continuous Learner:** Always building, solving practical challenges, and refining modern software development practices.
 ---
 
 ### 🛠️ Tech Stack & Tooling
